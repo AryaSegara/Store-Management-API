@@ -26,7 +26,7 @@ Pastikan Anda telah menginstal prasyarat berikut: **Git, JDK 21, dan PostgreSQL 
 **1. Clone Repositori**
 
 ```bash
-git clone [https://github.com/akun-anda/nama-proyek.git](https://github.com/akun-anda/nama-proyek.git)
+git clone https://github.com/AryaSegara/Store-Management-API
 cd nama-proyek
 ```
 
