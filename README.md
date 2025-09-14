@@ -98,7 +98,7 @@ Setelah build berhasil, jalankan aplikasi. Aplikasi akan siap di port **8080**.
 
 Cara termudah untuk menguji semua fungsionalitas API adalah melalui Swagger UI yang sudah terintegrasi.
 
-**URL Swagger UI:** [http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html)
+**URL Swagger UI:** [http://localhost:8080/swagger-ui/index.html#](http://localhost:8080/swagger-ui/index.html#)
 
 #### **Langkah-langkah Otentikasi (Wajib Dilakukan Pertama Kali)**
 
